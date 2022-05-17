@@ -13,4 +13,9 @@ printf() is a method for printing out instructions to the screen, console or wha
 
 \n in c functions is a new line character for new lines so basically once the prinf method instructions runs its moves on to a new line and runs the next instructions.
 
-A string is composed of characters, each of which is printed exactly as it appears, So printf("xyz"); would simply print an x, then a y, and finally a z
+A string is composed of characters, each of which is printed exactly as it appears, To identify the start of the string, we put a doublequote (") at the front. To identify the end of the
+string we put another double-quote at the end.
+So printf("xyz"); would simply print an x, then a y, and finally a z
+
+if we want to actually print a double-quote? We can’t exactly put a double-quote in the middle of the string because it would be mistaken for the end-of-string marker. Double-quote is a special character. The normal print-what-you-see rules do not apply in C.
+Different
