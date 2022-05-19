@@ -35,3 +35,7 @@ Different languages take different approaches to this problem. Some require the 
 # variables
 
 this are containers where we can store diff pieces of information, diff data values like numbers, texts, special characters, variables makes it easier for us to manage and keep tracks of all the data in our program.
+
+# char
+
+this is a short form for character a keyword for storing variables in C and for declaring the variable data type 
