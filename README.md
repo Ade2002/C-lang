@@ -38,4 +38,10 @@ this are containers where we can store diff pieces of information, diff data val
 
 # char
 
-this is a short form for character a keyword for storing variables in C and for declaring the variable data type 
+this is a short form for character a keyword for storing string variables in C and for declaring the variable data type as string or letters 
+
+# arrays []
+
+this is for storing multiples character in a variable example *char characterName[]*
+
+# int 

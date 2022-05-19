@@ -3,6 +3,7 @@
 
 int main()
 {
+    char
     printf("Hi my name is Ade\n");
     printf("I am a young adult,\n");
     printf("I really love coding\n");
