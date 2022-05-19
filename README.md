@@ -31,3 +31,7 @@ if we want to actually print a double-quote? We can’t exactly put a double-quo
 # backslash virgue \
 
 Different languages take different approaches to this problem. Some require the special character to be entered twice. C uses backslash (virgule, \) as an escape character to change the meaning of the next character after it. Thus, to print a doublequote you type in backslash double-quote. To print a backslash, you must escape it by typing another backslash in front of it. The first backslash means “give the next character its alternate meaning.” The second backslash has an alternate meaning of “print a backslash.” Without a backslash, special characters have a natural special meaning. With a backslash they print as they appear
+
+# variables
+
+this are containers where we can store diff pieces of information, diff data values like numbers, texts, special characters, variables makes it easier for us to manage and keep tracks of all the data in our program.
