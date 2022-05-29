@@ -10,6 +10,7 @@ int	main(int argc, char **argv)
     printf("%f \n", pow(2,3));
     printf("%f \n", sqrt(36));
     printf("%f \n", ceil(36.3));
+    printf("%f \n", floor(36.5555));
     system("pause");
     return 0;
 }
