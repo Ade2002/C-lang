@@ -62,4 +62,4 @@ this is a mathematical method to calculate the value power of a given variable, 
 
 # sqrt()
 
-this is a mathematical method to calculate the value square root of a given variable, it takes in two arguments separated by a coma.
+this is a mathematical method to calculate the value square root of a given variable, it takes in one argument.
