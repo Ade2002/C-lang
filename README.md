@@ -79,3 +79,7 @@ this is a mathematical method to calculate the value of a given variable and rou
 # scanf()
 
 this is a function that allows and scans the user input.
+
+# format specifiers %d / %c / %lf
+
+this are placeholder for variables in C, when using the scanf() function, each for integers, strings and decimals respectively.
