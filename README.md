@@ -63,3 +63,11 @@ this is a mathematical method to calculate the value power of a given variable, 
 # sqrt()
 
 this is a mathematical method to calculate the value square root of a given variable, it takes in one argument.
+
+# ceil()
+
+this is a mathematical method to calculate the value of a given variable and round it up to the nearest integer, it takes in one argument.
+
+# floor()
+
+this is a mathematical method to calculate the value of a given variable and round it down to the nearest integer, it takes in one argument.
