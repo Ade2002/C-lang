@@ -3,10 +3,13 @@
 
 int main(int argc, char const *argv[])
 {
-    char Name;
-    printf("Hi there, whats your name?\n");
-    scanf("%s", &Name);
-    printf("yay!! your name is %s\n", Name);
+    int age;
+    printf("Hi there, whats your age?:");
+    scanf("%d", &age);
+    printf("yay!! your age is %s\n", age);
 
+    /* printf("Hi there, whats your name?\n");
+    scanf("%s", &Name);
+    printf("yay!! your name is %s\n", Name); */
     return 0;
 }
