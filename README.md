@@ -55,3 +55,7 @@ keywords for storing decimal numbers as a variable in C and for declaring the va
 # format specifiers %d / %s / %f
 
 this are placeholder for variables in c,each for integers, strings and decimals respectively.
+
+# pow()
+
+this is a mathematical method to calculate the value power of a given variable, it takes in two arguments separated by a coma.
