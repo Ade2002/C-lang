@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+/* printf("$0")
+/* printf("")
+*/
 int	main(int argc, char **argv)
 {
     printf("Ade age is %f \n", 20.1);
