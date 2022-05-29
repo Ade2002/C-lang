@@ -78,7 +78,7 @@ this is a mathematical method to calculate the value of a given variable and rou
 
 # scanf()
 
-this is a function that allows and scans the user input.
+this is a function that allows and scans the user input. when using scanf for strings character the ampersand is optional.
 
 # format specifiers %d / %c/ %s / %lf
 
