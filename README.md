@@ -47,3 +47,9 @@ this is for storing multiples character in a variable example *char characterNam
 # int 
 
 this is a short form for integer, a keyword for storing number variables in C and for declaring the variable data type as whole number only.
+
+# double / float 
+
+keywords for storing decimal numbers as a variable in C and for declaring the variable data type as whole a decimal number only.
+# format specifiers %d / %s / %f
+this are placeholder for variables in c,each for integers, strings and decimals respectively.
