@@ -78,7 +78,11 @@ this is a mathematical method to calculate the value of a given variable and rou
 
 # scanf()
 
-this is a function that allows and scans the user input. when using scanf for strings character the ampersand is optional.
+this is a function that allows and scans the user input, scanf() can only take in a word and no whitespaces. when using scanf for strings character the ampersand is optional.
+
+# fgets()
+
+this is a similar function to scanf() but it only allows, stores and scans only the user input of a string, it does'nt work with integers etc,  it takes multiple words and whitespaces just like first name and last name. when using fgets it accepts 3 arguments example: fgets(variableName, amount of characters expected, stdin(meaning standard input)).
 
 # format specifiers %d / %c/ %s / %lf
 
