@@ -52,6 +52,10 @@ this is a short form for integer, a keyword for storing number variables in C an
 
 keywords for storing decimal numbers as a variable in C and for declaring the variable data type as whole a decimal number only.
 
+# const
+
+this is a short form for constant, a keyword for storing blocks of constant variables in C before or after declaring the variable type.
+
 # format specifiers %d / %s / %f
 
 this are placeholder for variables in c,each for integers, strings and decimals respectively.
