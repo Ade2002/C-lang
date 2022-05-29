@@ -54,7 +54,7 @@ keywords for storing decimal numbers as a variable in C and for declaring the va
 
 # const
 
-this is a short form for constant, a keyword for storing blocks of constant variables in C before or after declaring the variable type. 
+this is a short form for constant, a keyword for storing blocks of constant variables in C before or after declaring the variable type.
 
 # format specifiers %d / %s / %f
 
@@ -75,3 +75,7 @@ this is a mathematical method to calculate the value of a given variable and rou
 # floor()
 
 this is a mathematical method to calculate the value of a given variable and round it down to the nearest integer, it takes in one argument.
+
+# scanf()
+
+this is a function that allows and scans the user input.
