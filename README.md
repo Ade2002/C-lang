@@ -56,7 +56,7 @@ keywords for storing decimal numbers as a variable in C and for declaring the va
 
 this is a short form for constant, a keyword for storing blocks of constant variables in C before or after declaring the variable type.
 
-# format specifiers %d / %s / %f
+# format specifiers %d / %c / %s / %f
 
 this are placeholder for variables in c,each for integers, strings and decimals respectively.
 
@@ -82,4 +82,4 @@ this is a function that allows and scans the user input.
 
 # format specifiers %d / %c / %lf
 
-this are placeholder for variables in C, when using the scanf() function, each for integers, strings and decimals respectively.
+this are placeholder for variables in C, when using the scanf() function, each for integers, single character, strings and decimals respectively.
