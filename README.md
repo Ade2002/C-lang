@@ -80,6 +80,6 @@ this is a mathematical method to calculate the value of a given variable and rou
 
 this is a function that allows and scans the user input.
 
-# format specifiers %d / %c / %lf
+# format specifiers %d / %c/ %s / %lf
 
 this are placeholder for variables in C, when using the scanf() function, each for integers, single character, strings and decimals respectively.
